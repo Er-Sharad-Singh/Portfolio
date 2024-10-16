@@ -13,7 +13,7 @@ Welcome to my personal responsive portfolio! This project showcases my web devel
 4. Projects: Showcase of  work with links to GitHub repositories.
 5. Experience: Details of previous work or internships.
 6. Contact: Contact form and social media links (LinkedIn, GitHub, etc.).
-#🛠️ Technologies Used
+# 🛠️ Technologies Used
 * HTML5: For structuring the web pages.
 * CSS3: For styling and animations.
 * JavaScript: For interactive features.
